@@ -18,7 +18,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/CodeAlpha_URLShortener.git
+git clone https://github.com/Shadaatamer/CodeAlpha_URLShortener.git
 ```
 
 2. Install dependencies:
