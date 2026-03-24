@@ -58,10 +58,3 @@ npm start
 - **GET** `/:code`
 - Redirects to the original URL
 
-## 🎥 Demo
-
-(Attach your LinkedIn video link here)
-
-## 📎 Submission
-
-This project is part of the CodeAlpha Backend Development Internship.
