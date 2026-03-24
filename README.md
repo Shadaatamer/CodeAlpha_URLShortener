@@ -44,7 +44,7 @@ npm start
 
 ### Create Short URL
 
-- **POST** `/shorten`
+- **POST** `/`
 - Body:
 
 ```
